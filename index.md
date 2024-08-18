@@ -4,4 +4,5 @@ title: Benjamin Kramer
 ---
 [Publications](publications) \
 [Blog](blog) \
-[About](about)
+[About](about) \ 
+[Resume](resume.pdf) 
