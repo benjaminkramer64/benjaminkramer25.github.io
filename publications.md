@@ -4,6 +4,8 @@ title: Publications
 ---
 [*<< go back*](index.md)
 
+<span style="font-size:32px; font-weight: bold; color: #bbbbbb;">2024</span>
+
 **Profiling Cell Heterogeneity and Fructose Transporter Expression in the Rat Nephron by Integrating Single-Cell and Microdissected Tubule Segment Transcriptomes** \
 Ronghao Zhang, Darshan Aatmaram Jadhav, Najeong Kim, Benjamin Kramer, Agustin Gonzalez-Vicente \
 *International Journal of Molecular Sciences 2024* \
@@ -13,6 +15,8 @@ Ronghao Zhang, Darshan Aatmaram Jadhav, Najeong Kim, Benjamin Kramer, Agustin Go
 Darshan Aatmaram Jadhav, Ronghao Zhang, Benjamin Kramer, Agustin Gonzalez-Vicente \
 *Physiology 2024* \
 <a href="https://journals.physiology.org/doi/abs/10.1152/physiol.2024.39.S1.831" target="_blank">Physiology</a>
+
+<span style="font-size:32px; font-weight: bold; color: #bbbbbb;">2023</span>
 
 **[Abstract] Sexually Dimorphic Transcriptional Phenotypes In Tubular Epithelial Cells Of The Rat Kidney** \
 Benjamin K Kramer, Ronghao Zhang, Agustin Gonzalez-Vicente \
