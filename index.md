@@ -2,7 +2,7 @@
 layout: home
 title: Benjamin Kramer
 ---
+[About Me](about) \
 [Publications](publications) \
 [Blog](blog) \
-[About](about) \
 [CV](resume.pdf) 
