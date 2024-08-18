@@ -4,17 +4,33 @@
     {% include meta.html %}
     <link rel="stylesheet" href="/css/home.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+      /* You can include additional CSS styles here */
+      .content {
+        display: flex;
+        align-items: center; /* Vertically centers items */
+      }
+
+      .content img {
+        max-width: 100%; /* Ensures the image scales to fit the container */
+        height: auto; /* Maintains aspect ratio */
+        margin-left: 20px; /* Adds some space between text and image */
+      }
+    </style>
   </head>
   <body>
     <h2>{{ page.title }}</h2>
     <div class="content">
-    {{ content }}
+      <div class="text-content">
+        {{ content }}
+      </div>
+      <img src="path/to/fractal.jpg" alt="Fractal Image" />
     </div>
     <div class="links">
         <ul> 
           <li id="email">{{ site.email }}</li> 
           <li> <i class="fa fa-github"></i> 
-            <a href="https://github.com/benjaminkramer25" id="github" target=”_blank>
+            <a href="https://github.com/benjaminkramer25" id="github" target="_blank">
             {{ site.github_username }}
             </a>
           </li>
