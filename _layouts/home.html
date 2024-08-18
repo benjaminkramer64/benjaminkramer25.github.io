@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    {% include meta.html %}
+    <link rel="stylesheet" href="/css/home.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <h2>{{ page.title }}</h2>
+    <div class="content">
+    {{ content }}
+    </div>
+    <div class="links">
+        <ul> 
+          <li id="email">{{ site.email }}</li> 
+          <li> <i class="fa fa-github"></i> 
+            <a href="https://github.com/benjaminkramer25" id="github" target=”_blank>
+            {{ site.github_username }}
+            </a>
+          </li>
+        </ul>
+    </div>
+  </body>
+</html>

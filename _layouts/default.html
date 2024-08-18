@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="/css/main.css">
+    {% include meta.html %}
+    <link href='/css/main.css' rel='stylesheet'/>
+    {% if site.tags != "" %}
+      {% include collecttags.html %}
+    {% endif %} 
+  </head>
+  <body>
+    {% include navigation.html %}
+    {{ content }}
+  </body>
+</html>
