@@ -8,9 +8,9 @@ title: Benjamin Kramer
   <img width="268" height="430" src="assets/images/golf.jpg">
 </p>
 
-Hello! My name is Benjamin Kramer, and I am an undergraduate at Case Western Reserve University studying mathematics. I'm from and have lived throughout the Bay Area. I enjoy reading, playing golf, as well as the board games Go and chess.  
+Hello! My name is Benjamin Kramer, and I am an undergraduate at Case Western Reserve University studying mathematics. I'm from the Bay Area, however have resided in Cleveland the past few years. My non-academic interests include playing golf, tennis, or Go, as well as appreciating different architectural styles (in specific Art Deco, Baroque Revival, + Neoclassical) and reading philosophy. 
 
-My research interest lie in computational biological, medical, and health sciences, specifically through advanced algorithms. Despite majoring in mathematics, I enjoy programming and computational problems immensely, and am currently interested in the modeling of dynamic systems, analysis of differentially expressed genes, as well as statistical regression to determine causality. 
+My research and academic interests lie in the computational biological, medical, and health sciences. I wish to apply mathematical methods and advanced algorithms to better solve issues in these fields, and I enjoy programming and computational problems immensely. My current subfields of interest are the dynamical systems modeling, genomic analysis through machine learning, as well as statistical regression from large health datasets to examine mechanisms of disease.
 
 Previously, I have
 - Worked for the <a class="about-link" href="https://www.oaklandca.gov/" target="_blank">City of Oakland's</a> District 4 encompassing Downtown and West Oakland on creating district databases for locations, requests, and solicitations, as well as policy analysis on Measure HH's Sugar Sweetened Beverage Distribution Tax.
