@@ -6,4 +6,5 @@ title: Benjamin Kramer
 [Publications](publications) \
 [Teaching](teaching) \
 [Blog](blog) \
-[CV](resume.pdf) 
+<a href="resume.pdf" style="color:#d9b99b;">CV</a>
+
