@@ -11,6 +11,6 @@ I am interested in the applications of mathematics and computation to biology, i
 
 Other interests include linguistics, philosophy, and environmental studies in particular renewable energy and its application to economic systesm and policy, cultivated by my time at [New Sun Road](https://newsunroad.com/). Despite fairly specific interests, my blog will be quite varied and not limited to solely these topics mentioned in this first post. Thus, anything which catched by interest to the point in which I feel the need to comment will uploaded.
 
-It is my honor to give immense credit to my Artificial Intelligence group project partner [Andrew Ye](https://andrew-ye.com/) and in turn [Gregory Gundersen](https://gregorygundersen.com/), of whose websites this site is simply a facsimile. 
+It is my honor to give immense credit to my Artificial Intelligence group project partner [Andrew Ye](https://andrew-ye.com/) and in turn [Gregory Gundersen](https://gregorygundersen.com/), of whose websites this site is simply a facsimile. As they have said in theirs for which I thank them, I will say in mine: "feel free to use this website".
 
-Lastly, to close with a piece of music, my favorite violin concerto: [Brahms' Violin Concerto in D Major](https://www.youtube.com/watch?v=7C_U7eUbVd8)
+Lastly, to close with a piece of music, my favorite violin concerto and a masterpiece: [Brahms' Violin Concerto in D Major](https://www.youtube.com/watch?v=7C_U7eUbVd8)
