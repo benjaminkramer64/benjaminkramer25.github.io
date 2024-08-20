@@ -8,12 +8,14 @@ title: Benjamin Kramer
   <img width="268" height="430" src="assets/images/golf.jpg">
 </p>
 
-Hello! My name is Benjamin Kramer, and I am an undergraduate at Case Western Reserve University (CWRU) studying mathematics. I'm from the Bay Area, however have resided in Cleveland the past few years. My non-academic interests include playing golf, tennis, or Go, as well as appreciating different architectural styles (in specific Art Deco, Baroque Revival, + Neoclassical) and reading philosophy. 
+Hello! My name is Benjamin Kramer, and I am an undergraduate at Case Western Reserve University (CWRU) studying mathematics. I'm from the Bay Area, however have resided in Cleveland the past few years. 
 
-My research and academic interests lie in the computational biological, medical, and health sciences. I wish to apply mathematical methods and advanced algorithms to better solve issues in these fields, and I enjoy programming and computational problems immensely. My current subfields of interest are the dynamical systems modeling, genomic analysis through machine learning, as well as statistical regression from large health datasets to examine mechanisms of disease. 
+My research and academic interests lie in the computational biological, medical, and health sciences. My current subfields of interest are the dynamical systems modeling and genomic or health record analysis through algorithms and machine learning.
+
+My non-academic interests include playing golf, tennis, or Go, as well as appreciating different architectural styles (in specific Art Deco, Baroque Revival, + Neoclassical) and reading philosophy. 
 
 **Previous research includes working at...**
-- The joint CWRU Garvin and Gonzalez-Vicente Lab studying renal physiology. In particular, I worked on rodent kidney surgeries, and the microdissection of glomeruli, as well as using bioinformatics tools including R and Seurat for genomics analysis. My first [publication](publications) and abstract are related to this work.
+- The joint <a class="about-link" href="https://physiology.case.edu/" target="_blank">CWRU Department of Physiology and Biophysics</a> Garvin and Gonzalez-Vicente Lab focusing on the renal system through experiments and bioinformatics. My first [publication](publications) and abstract are related to this work.
 - The <a class="about-link" href="https://publichealth.berkeley.edu/" target="_blank">UC Berkeley Department of Public Health</a> during an REU with <a class="about-link" href="https://publichealth.berkeley.edu/people/misbath-daouda" target="_blank">Professor Misbath Daouda</a>. I analyzed air pollution through satellite data in West Africa, using statistical modelling through Python. My final presentation with graphs created throughout June-August 2024 is [here](assets/items/BenjaminKramerBerkeleyPresentation2024.pptx). 
 
 **Non-academic job experiences include working at...**
