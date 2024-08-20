@@ -14,9 +14,11 @@ My research and academic interests lie in the computational biological, medical,
 
 My non-academic interests include playing golf, tennis, or Go, as well as appreciating different architectural styles (in specific Art Deco, Baroque Revival, + Neoclassical) and reading philosophy. 
 
-**Previous research includes working at...**
+**Previous research and academic experience includes working at...**
 - The <a class="about-link" href="https://physiology.case.edu/" target="_blank">CWRU Department of Physiology and Biophysics</a> with <a class="about-link" href="https://publichealth.berkeley.edu/people/misbath-daouda" target="_blank">Dr. Agustin Gonzalez-Vicente</a> focusing on the renal system through experiments and bioinformatics. My first [publication](publications) and abstracts are related to this work.
-- The <a class="about-link" href="https://publichealth.berkeley.edu/" target="_blank">UC Berkeley Department of Public Health</a> during an REU with <a class="about-link" href="https://publichealth.berkeley.edu/people/misbath-daouda" target="_blank">Professor Misbath Daouda</a>. I analyzed air pollution through satellite data in West Africa, using statistical modelling through Python, with all original visualizations [here](assets/items/BenjaminKramerBerkeleyPresentation2024.pptx). 
+- The <a class="about-link" href="https://publichealth.berkeley.edu/" target="_blank">UC Berkeley Department of Public Health</a> during an REU with <a class="about-link" href="https://publichealth.berkeley.edu/people/misbath-daouda" target="_blank">Professor Misbath Daouda</a>. I analyzed air pollution through satellite data in West Africa, using statistical modelling through Python, with all original visualizations [here](assets/items/BenjaminKramerBerkeleyPresentation2024.pptx).
+- Different <a class="about-link" href="https://case.edu/" target="_blank">CWRU Departments</a> as a teaching assistant for [a few memorable courses](teaching), with multiple outside my specialization. Giving lectures recitations for thermodynamics greatly increased by fondness for physics!
+
 
 **Non-academic job experiences include working at...**
 - <a class="about-link" href="https://newsunroad.com/" target="_blank">New Sun Road</a> for two summers, a startup out of <a class="about-link" href="https://erg.berkeley.edu/" target="_blank">UC Berkeley's ERG</a>. I performed hardware/software QC on the StellarEdge Internet of Things (IoT) controller and contributed to light development to the StellarEdge's display board firmware.
