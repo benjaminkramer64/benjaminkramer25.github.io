@@ -8,11 +8,11 @@ title: Benjamin Kramer
   <img width="268" height="430" src="assets/images/golf.jpg">
 </p>
 
-Hello! My name is Benjamin Kramer, and I am an undergraduate at Case Western Reserve University (CWRU) studying mathematics. I'm from the Bay Area, however have resided in Cleveland the past few years. 
+Hello! My name is Benjamin Kramer, and I am an undergraduate at Case Western Reserve University (CWRU) studying mathematics and computer science. I'm from the Bay Area, however have resided in Cleveland the past few years. 
 
-My research and academic interests lie in the computational biological, medical, and health sciences. My current subfields of interest are the dynamical systems modeling and genomic or health record analysis through algorithms and machine learning.
+My research and academic interests lie in the computational biological, medical, and health sciences. My current subfields of interest are dynamical systems modeling and genomic or health record analysis through algorithms, statistical regression, and machine learning.
 
-My non-academic interests include playing golf, tennis, or Go, as well as appreciating different architectural styles in specific Art Deco, Baroque Revival, + Neoclassical and reading philosophy before and including Kant. 
+My non-academic interests include playing golf, running, tennis, chess, and Go. I also enjoy reading philosophy, particularly relating to Aristotelianism and Kant and have an interest in Classical Greece, Rome and the Byzantine Empire. 
 
 **Previous research and academic experience includes...**
 - The <a class="about-link" href="https://physiology.case.edu/" target="_blank">CWRU Department of Physiology and Biophysics</a> with <a class="about-link" href="https://publichealth.berkeley.edu/people/misbath-daouda" target="_blank">Dr. Agustin Gonzalez-Vicente</a> focusing on the renal system through experiments and bioinformatics. My first [publication](publications) and abstracts are related to this work.
